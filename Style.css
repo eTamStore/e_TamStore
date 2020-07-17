@@ -1,0 +1,52 @@
+/* CCS Document*/
+
+body{
+	width:100%
+	height: 100%;
+	margin-left: 1px;
+	margin: 1px;
+}
+
+.Formulario{
+	position: relative;
+	float: left;
+	margin-top: 3%;
+	margin-left: 7%;
+}
+#MetodosPago{
+	position: relative;
+	margin-right: 20%;
+}
+
+header{
+	position: relative;
+	background-color: #009999;
+	padding-top: 5%;
+}
+p a {
+	color:black;
+	text-decoration: none;
+	font-family: Calibri;
+	font-size: 30px;
+	padding-left: 15%;
+	padding-top: 30%;
+}
+
+.footer2{
+	background-color:#316774;
+	font-family: helvetica;
+	bottom: 0;
+	shape-margin:0.5em;
+	position:fixed;
+	padding-right:8%;
+	right:0;
+}
+.footer2 p{
+	position: relative;
+	left: 1em;
+}
+.fb-page{
+position: absolute;
+width: 500px;
+left: 10px;
+}
